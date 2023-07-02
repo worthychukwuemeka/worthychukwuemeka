@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on: **my portfolio website**
 
-- 🌱 I’m currently learning: **Three.js, and Blockchain**
+- 🌱 I’m currently learning: **Three.js, Java, and Nuxt.js**
 
 - 💬 Ask me about: **React, Vue, HTML & CSS**
 
