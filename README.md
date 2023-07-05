@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Worthy Chukwuemeka</h1>
-<h3 align="center">A passionate fullstack web developer & UI designer from Abuja, Nigeria</h3>
+<h3 align="center">A passionate full-stack web developer and UI designer from Abuja, Nigeria. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=worthychukwuemeka&label=Profile%20views&color=0e75b6&style=flat" alt="worthychukwuemeka" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning: **Three.js, Java, and Nuxt.js**
 
-- 💬 Ask me about: **React, Vue, HTML & CSS**
+- 💬 Ask me about: **React, Vue, Vite, HTML, JavaScript & CSS**
 
 - 📫 How to reach me: **worthysvue@gmail.com**
 
