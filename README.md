@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Worthy Chukwuemeka</h1>
-<h3 align="center">A passionate full-stack web developer and design guru. </h3>
+<h3 align="center">A passionate full-stack web & noCode developer and UI/UX and graphic design guru. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=worthychukwuemeka&label=Profile%20views&color=0e75b6&style=flat" alt="worthychukwuemeka" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on: **my portfolio website**
 
-- 🌱 I’m currently learning: **Three.js, Java Spring boot, Axios.js, and Next.js**
+- 🌱 I’m currently learning: **how to enjoy my life!**
 
-- 💬 Ask me about: **React, Vue, Vite, HTML, JavaScript, Figma, & CSS**
+- 💬 Ask me about: **Next.js, Vue, Vite, HTML, JavaScript, Figma, & CSS**
 
-- 📫 How to reach me: **worthysvue@gmail.com**
+- 📫 How to reach me: **worthychukwuemeka@gmail.com**
 
 - ⚡ Fun fact: **I am extremely funny.**
 
