@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning: **how to enjoy my life!**
 
-- 💬 Ask me about: **Next.js, Vue, Vite, HTML, JavaScript, Figma, & CSS**
+- 💬 Ask me about: **Next.js, React, TypeScript, HTML, JavaScript, Figma, & CSS**
 
 - 📫 How to reach me: **worthychukwuemeka@gmail.com**
 
