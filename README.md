@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=worthychukwuemeka" alt="worthychukwuemeka" /></a> </p>
 
-- 🔭 I’m currently working on: **my portfolio website**
+- 🔭 Recently completed projects: <a href="https://worthychukwuemeka.com">**My portfolio website**</a>
 
-- 🌱 I’m currently learning: **how to enjoy my life!**
+- 🌱 I’m currently learning: **How to balance my work and personal life**
 
-- 💬 Ask me about: **Next.js, React, TypeScript, HTML, JavaScript, Figma, & CSS**
+- 💬 Ask me about **Next.js, React, TypeScript, HTML, JavaScript, Figma, & CSS**
 
 - 📫 How to reach me: **worthychukwuemeka@gmail.com**
 
